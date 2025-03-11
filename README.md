@@ -7,6 +7,3 @@
 - 🌍 I'm mostly active within the **VFX Community**
 - 🌱 Learning all about **OpenGL, Vulkan, CUDA**
 - 📫 Reach me: [linkedin](https://www.linkedin.com/in/siddhartha-basu-3431002a/)
-
----
-⭐️ From [s-dotb](https://github.com/s-dotb)
