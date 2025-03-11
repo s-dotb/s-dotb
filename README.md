@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a developer, technical artist working with animation, VFX and games. I enjoy writing clean and modular code. 
+#### I'm a developer, technical artist currentky working in animation, VFX and games. I enjoy writing clean and modular code. 
 
 - 🏢 I'm currently working at **Mikros Animation**
 - ⚙️ I use daily: `python`, `rust`, `c++`
