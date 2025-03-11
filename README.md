@@ -1,11 +1,3 @@
----
-title: s-dotb
-date: '2025-03-11'
-spoiler: Minimal Readme
-categories: ["short-and-sweet", "all-profile"]
-githubUsername: 's-dotb'
----
-
 ### Hi there 👋
 
 #### I'm a developer, technical artist working with animation, VFX and games. I enjoy improving the efficiency of my colleagues and making new products. 
